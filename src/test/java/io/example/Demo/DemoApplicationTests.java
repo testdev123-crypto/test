@@ -11,6 +11,7 @@ class DemoApplicationTests {
 		System.out.println("Hi");
 		System.out.println("dscw");
 		new test();
+		new run();
 
 	}
 }
